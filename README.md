@@ -1,5 +1,9 @@
 # Windows 10 下 Leptonica、Tesseract 的编译
 
+# GitHub 链接
+
+https://github.com/Ruheng-He/Leptonica-Tesseract-Compilation-Windows-10
+
 ## 环境
 
 Leptonica `1.78.0`
