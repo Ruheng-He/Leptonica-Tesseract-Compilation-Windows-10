@@ -2,7 +2,7 @@
 
 # GitHub 链接
 
-https://github.com/Ruheng-He/Leptonica-Tesseract-Compilation-Windows-10
+https://github.com/Ruheng-He/Leptonica_Tesseract_compilation_Windows_10
 
 ## 环境
 
